@@ -1,0 +1,14 @@
+C:\Source\Osiris_Movie_WebApp\bin\Debug\netcoreapp2.1\Osiris_Movie_WebApp.deps.json
+C:\Source\Osiris_Movie_WebApp\bin\Debug\netcoreapp2.1\Osiris_Movie_WebApp.runtimeconfig.json
+C:\Source\Osiris_Movie_WebApp\bin\Debug\netcoreapp2.1\Osiris_Movie_WebApp.runtimeconfig.dev.json
+C:\Source\Osiris_Movie_WebApp\bin\Debug\netcoreapp2.1\Osiris_Movie_WebApp.dll
+C:\Source\Osiris_Movie_WebApp\obj\Debug\netcoreapp2.1\Osiris_Movie_WebApp.csprojAssemblyReference.cache
+C:\Source\Osiris_Movie_WebApp\obj\Debug\netcoreapp2.1\Osiris_Movie_WebApp.csproj.CoreCompileInputs.cache
+C:\Source\Osiris_Movie_WebApp\obj\Debug\netcoreapp2.1\Osiris_Movie_WebApp.RazorAssemblyInfo.cache
+C:\Source\Osiris_Movie_WebApp\obj\Debug\netcoreapp2.1\Osiris_Movie_WebApp.RazorAssemblyInfo.cs
+C:\Source\Osiris_Movie_WebApp\obj\Debug\netcoreapp2.1\Osiris_Movie_WebApp.AssemblyInfoInputs.cache
+C:\Source\Osiris_Movie_WebApp\obj\Debug\netcoreapp2.1\Osiris_Movie_WebApp.AssemblyInfo.cs
+C:\Source\Osiris_Movie_WebApp\obj\Debug\netcoreapp2.1\Osiris_Movie_WebApp.RazorTargetAssemblyInfo.cache
+C:\Source\Osiris_Movie_WebApp\bin\Debug\netcoreapp2.1\Osiris_Movie_WebApp.pdb
+C:\Source\Osiris_Movie_WebApp\obj\Debug\netcoreapp2.1\Osiris_Movie_WebApp.dll
+C:\Source\Osiris_Movie_WebApp\obj\Debug\netcoreapp2.1\Osiris_Movie_WebApp.pdb

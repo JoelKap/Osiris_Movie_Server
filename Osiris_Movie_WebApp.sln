@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osiris_Movie_WebApp", "Osiris_Movie_WebApp.csproj", "{576D1B9B-C049-4D06-9C5A-6666EFCAC5F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{576D1B9B-C049-4D06-9C5A-6666EFCAC5F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576D1B9B-C049-4D06-9C5A-6666EFCAC5F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576D1B9B-C049-4D06-9C5A-6666EFCAC5F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576D1B9B-C049-4D06-9C5A-6666EFCAC5F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3ABA940-25EF-42AC-8385-809714C0856E}
+	EndGlobalSection
+EndGlobal
